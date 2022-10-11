@@ -1,1 +1,1 @@
-# Sales Forecasting with Deep Learning\nThis repository contai
+# Sales Forecasting with Deep Learning\nThis repository contains 
